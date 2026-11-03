@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About
+## 👋 Hey, I'm Karthik
 
 ```python
 class KarthikPrasad:
@@ -25,6 +25,11 @@ class KarthikPrasad:
     focus    = ["Compilers", "AI tooling", "Embedded systems"]
     mission  = "Make programming feel natural"
 ```
+
+- 🔭 **Currently building:** Sup and Sup-IDE
+- 🌱 **Exploring:** agentic browsers and Li-Fi communication
+- 💬 **Ask me about:** language design, Arduino and embedded, AI tooling
+- 📄 **Resume:** [view here](https://YOUR-RESUME-LINK)
 
 ---
 
@@ -81,7 +86,11 @@ class KarthikPrasad:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikprasadm&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_radius=14" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikprasadm&bg_color=0d1117&color=00D9FF&line=7C3AED&point=ffffff&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikprasadm/Karthikprasadm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikprasadm/Karthikprasadm/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/Karthikprasadm/Karthikprasadm/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
@@ -90,6 +99,7 @@ class KarthikPrasad:
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   <a href="https://YOUR-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
